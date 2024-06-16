@@ -1,12 +1,13 @@
 # Discord Remote Desktop
 ## Brief Description
-this program allows you to control your entire computer with your phone, it does this by hosting a discord bot on a private server, and through reactions to the bots messages, allows you to request different actions to your computer, those actions are described further bellow.
+This program allows you to control your entire computer with your phone, it does this by hosting a discord bot on a private server, and through reactions to the bots messages, allows you to request different actions to your computer, those actions are described further bellow.
 
 ## Requirements
-Works best on QWERTY keyboard
-Run the INSTALLME.py script to have everything needed installed
-You need to create a discord bot : https://discordpy.readthedocs.io/en/stable/discord.html
-You need to create a server where you will communicate with the discord bot
+Works best on QWERTY keyboard\
+Run the INSTALLME.py script to have everything needed installed\
+You need to create a discord bot : https://discordpy.readthedocs.io/en/stable/discord.html \
+You need to create a server where you will communicate with the discord bot \
+Fill in the .env with your corresponding info
 
 ## Usage
 ### Built-in Commands
